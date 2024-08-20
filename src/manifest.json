@@ -46,7 +46,7 @@
 	"web_accessible_resources": [
 		{
 			"resources": [ "inject.js" ],
-			"matches": [ "*://seiga.nicovideo.jp/*", "*://seiga.nicovideo.jp/*" ]
+			"matches": [ "*://seiga.nicovideo.jp/*", "*://manga.nicovideo.jp/*" ]
 		}
 	]
 }
